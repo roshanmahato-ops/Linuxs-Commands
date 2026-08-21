@@ -46,3 +46,41 @@
 
 // 20\. more = This command is used to show the number of pages in the more way.
 
+// \*
+
+// 21\. cp = This command is used to copy the files and folders.
+
+// 22\. mv = This command is used to moves the files and folder or this mv can rename the folder and files name.
+
+// 23\. wc (word count) = mean's kitne bar aa reha hai sabde.
+
+// 24.Ln(hard link $ soft link) = (ln -> stands for link) SOFT LINK -> is used to create a shortcut but, if the main file is delted then the shotcut will also deleted, When the resource is delete then softkinkfile trurs it's colour to red.
+
+// HARD LINK -> If the main file is deletd but still there we hard link exists.
+
+// 25 cut => cut is used give the the bit of portion from the file where we want
+
+// 26\. tee -> is command which is used take input or output and display the output in the screen and create a file.txt while creating.
+
+// 27\. sort -> This command is used to sort from ascending order.
+
+// 28\. diff -> This command is used to a find a difference between two files.
+
+// 29\. vi editor ->
+
+// 30\. df -> This command shows system's storage usage.
+
+// 31\. du -> This command is used gives the information of the folder.
+
+// 32\. ps -> stands for process give the information of the processes.
+
+// 33\. top = As same like PS but advanced give more detailed information.
+
+// 34\. kill -> if you want to kill any process ten use this command (IMP : very risky command)
+
+// 35\. free -> shows the systems free storage.
+
+// 36.nohup -> This is used to store the data in the file as we want.
+
+// 37\. vmstat -> is a virtual memory and shoes the information.
+
